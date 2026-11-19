@@ -1,7 +1,5 @@
-
-
-import java.util.Scanner;
-
+package lab5;
+import  java.util.Scanner;
 public class p2 {
     public static void findroot(int a, int b, int c){
 
